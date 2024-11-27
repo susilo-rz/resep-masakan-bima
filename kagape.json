@@ -1,4 +1,5 @@
 {
+    "deskripsi": "Kagape adalah hidangan berkuah santan yang kaya rempah dan biasanya menggunakan kikil sebagai bahan utamanya.",
     "bahan": [
         "500 gram kikil sapi",
         "5 lembar daun jeruk",
@@ -21,5 +22,11 @@
         "Tuang santan sedikit demi sedikit, masak hingga mendidih dan kuah mengental.",
         "Bumbui dengan garam dan gula sesuai selera.",
         "Angkat dan sajikan."
+    ],
+    "tips": [
+        "Kikil: Anda bisa menggunakan kikil sapi, kerbau, atau kambing.",
+        "Santan: Gunakan santan kental dari kelapa parut segar untuk rasa yang lebih gurih.",
+        "Bumbu: Anda bisa menambahkan bumbu lain sesuai selera, seperti daun salam atau ketumbar.",
+        "Penyajian: Kagape bisa disajikan dengan berbagai lauk pelengkap, seperti telur rebus, perkedel, atau tempe goreng."
     ]
 }

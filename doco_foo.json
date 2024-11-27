@@ -1,4 +1,5 @@
 {
+    "deskripsi": "Doco Fo'o, atau yang sering disebut sambal mangga, adalah sambal khas Bima yang terbuat dari bahan utama mangga muda",
     "bahan": [
         "1 buah mangga muda uk sedang",
         "1 buah tomat",
@@ -13,5 +14,10 @@
         "Ulek cabe rawit dan cabe merah tambahkan garam dan gula lalu campurkan ke bahan mangga, aduk2 siap di sajikan",
         "Note : pake kemangi jauh lebih enak ya tapi ini karena lagi engga ada aja",
         "Remas2 mangga yang sudah di potong cacah dengan garam secukupnya lalu buang airnya (ini berfungsi untukk mengurangi rasa asam pada mangga), lalu bilas kembali dn sisihkan"
+    ],
+    "tips": [
+        "Mangga muda: Semakin muda mangga, semakin asam rasanya.",
+        "Cabai rawit: Sesuaikan jumlah cabai rawit sesuai tingkat kepedasan yang Anda inginkan.",
+        "Tambahan: Beberapa orang menambahkan sedikit terasi atau gula untuk menambah rasa."
     ]
 }

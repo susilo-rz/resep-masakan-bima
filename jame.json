@@ -1,4 +1,5 @@
 {
+    "deskripsi": "Jame adalah hidangan khas Bima yang berbahan dasar ikan teri. Rasa gurih ikan teri berpadu dengan bumbu-bumbu khas menghasilkan cita rasa yang sangat menggugah selera.",
     "bahan": [
         "250 gr teri basah",
         "250 gr belimbing wuluh (bisa pakai asam muda)",
@@ -18,5 +19,11 @@
         "Bagi 2 bawang merah & bawang putih (iris + ulek)",
         "Haluskan merica + cabe, tumbuk kasar teri basah, siangi kemangi & potong serong belimbing wuluh",
         "Tumis bumbu hingga harum, masukin semua bahan tunggu sampai mendidih (api kecil saja) aduk rata tambahkan Gula Garam dan kaldu bubuk tes rasa dan tunggu sampai santan kering dan meresap."
+    ],
+    "tips": [
+        "Ikan teri: Pilih ikan teri yang segar dan berkualitas baik.",
+        "Santan: Gunakan santan kental dari kelapa parut segar untuk rasa yang lebih gurih.",
+        "Bumbu: Anda bisa menambahkan bumbu lain seperti lengkuas atau serai untuk menambah aroma.",
+        "Penyajian: Sajikan Jame hangat bersama nasi putih dan lauk pauk lainnya."
     ]
 }

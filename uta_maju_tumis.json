@@ -1,4 +1,5 @@
 {
+    "deskripsi": "Uta Maju Tumis adalah hidangan khas Bima yang terbuat dari daging rusa yang dikeringkan terlebih dahulu, lalu ditumis dengan bumbu-bumbu khas.",
     "bahan": [
         "500 gr daging rusa kering",
         "7 siung bawang merah dirajang",
@@ -15,5 +16,10 @@
         "Tumis semua bumbu hingga layu",
         "Tambahkan daging rusa aduk hingga rata,tambahkan air perasan jeruk dan gula secukupnya",
         "Tumis daging rusa siap disantap"
+    ],
+    "tips": [
+        "Daging rusa: Jika sulit mendapatkan daging rusa, Anda bisa menggantinya dengan daging sapi yang sudah dikeringkan.",
+        "Bumbu: Anda bisa menambahkan bumbu lain sesuai selera, seperti kunyit atau ketumbar.",
+        "Penyajian: Uta Maju Tumis cocok disajikan dengan nasi putih hangat dan lalapan."
     ]
 }
